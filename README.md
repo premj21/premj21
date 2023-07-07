@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=premj21" alt="premj21" /></a> </p>
 
-- 🔭 I’m currently working on **Dap's**
+- 🔭 I’m currently working on **Dap's (Decentralised Application)**
 
 - 🌱 I’m currently learning **BlockChain (DAP'S) , Gsoc contributions**
 
